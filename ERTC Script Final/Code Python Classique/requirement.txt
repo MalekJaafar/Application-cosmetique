@@ -1,0 +1,10 @@
+tk
+tkcalendar
+pandas
+os
+sqlite3
+customtkinter
+PIL
+Tkinter
+datetime
+
