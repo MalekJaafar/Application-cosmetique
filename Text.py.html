@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>Text.py</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #cc7832;}
+.s1 { color: #a9b7c6;}
+.s2 { color: #6a8759;}
+.s3 { color: #808080;}
+.s4 { color: #6897bb;}
+</style>
+</head>
+<body bgcolor="#2b2b2b">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+Text.py</font>
+</center></td></tr></table>
+<pre><span class="s0">from </span><span class="s1">openpyxl </span><span class="s0">import </span><span class="s1">load_workbook</span>
+
+<span class="s1">excel_file = </span><span class="s2">r'C:\Users\malak\Downloads\ERTC Script Finale\ERTC Script Final\Code Python Classique\Export_Excel\TABLEAU GENERAL MODELE V2.xlsx'</span>
+
+<span class="s3">#Lire le fichier Excel dans un DataFrame</span>
+<span class="s3">#df = pd.read_excel(excel_file, engine='openpyxl')</span>
+<span class="s1">wb = load_workbook(excel_file)</span>
+
+<span class="s3">#selectionner la premiére feuille</span>
+<span class="s1">ws = wb.active</span>
+
+<span class="s3">#ouvrir le fichier text pour écrire les résultats</span>
+<span class="s0">with </span><span class="s1">open(</span><span class="s2">&quot;output.txt&quot;</span><span class="s0">, </span><span class="s2">&quot;w&quot;</span><span class="s0">, </span><span class="s1">newline=</span><span class="s2">''</span><span class="s0">,</span><span class="s1">encoding = </span><span class="s2">&quot;utf-8&quot;</span><span class="s1">) </span><span class="s0">as </span><span class="s1">file:</span>
+    <span class="s0">for </span><span class="s1">column </span><span class="s0">in </span><span class="s1">ws.iter_cols():</span>
+        <span class="s3"># Récupérer le contenu de la première cellule de la colonne (ligne 1)</span>
+        <span class="s1">line1_content = column[</span><span class="s4">0</span><span class="s1">].value</span>
+        <span class="s3"># Récupérer le contenu de la deuxième cellule de la colonne (ligne 2)</span>
+        <span class="s1">line2_content = column[</span><span class="s4">1</span><span class="s1">].value</span>
+        <span class="s3"># Écrire le résultat dans le fichier texte</span>
+        <span class="s1">file.write(</span><span class="s2">f&quot;</span><span class="s0">{</span><span class="s1">line1_content</span><span class="s0">} </span><span class="s2">: </span><span class="s0">{</span><span class="s1">line2_content</span><span class="s0">}\n</span><span class="s2">&quot;</span><span class="s1">)</span>
+
+<span class="s1">print(</span><span class="s2">&quot;Fichier texte généré avec succès !&quot;</span><span class="s1">)</span>
+
+
+
+
+
+</pre>
+</body>
+</html>

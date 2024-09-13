@@ -1,0 +1,161 @@
+Date de la rédaction du rapport : champ date
+Étude  : BD PRODUIT
+Dénomination commerciale du produit : BD PRODUIT
+Dénomination commerciale (déclinaison) : BD PRODUIT
+Nom de l'entreprise : BD CLIENT
+Nom du fabricant : BD CLIENT
+Adresse du fabricant : BD CLIENT
+SIRET du fabricant : BD CLIENT
+Nom du conditionneur : BD CLIENT
+Adresse du conditionneur : BD CLIENT
+SIRET du conditionneur : BD CLIENT
+Nom du distributeur : BD CLIENT
+Adresse du distributeur : BD CLIENT
+SIRET du distributeur : BD CLIENT
+Nom de la personne responsable : BD CLIENT
+Adresse de la personne responsable : BD CLIENT
+SIRET de la personne responsable : BD CLIENT
+Référence du produit évalué : BD PRODUIT
+Type de produit : BD TYPE DE PRODUIT
+Contenant et type de conditionnement : BD TYPE CONTENANT FERMETURE
+Allégations santé : champ texte
+Population cible : champ ascenseur (Adultes /// Adultes sauf femmes enceintes ou allaitantes /// Enfants entre 3 et 12 ans /// Nourrissons)
+Circuit de distribution : champ ascenseur (Détaillants et Internet / Détaillants / Internet)
+Description du produit : champ ascenseur (Produit rincé /// Produit non rincé /// Produit considéré comme rincé /// Produit considéré comme non rincé) ; au final, cette case contient les informations de la case T3 + type de produit sélectionné  (Produit rincé /// Produit non rincé /// Produit considéré comme rincé /// Produit considéré comme non rincé)
+Aspect : champ texte
+Couleur : champ texte
+Odeur : champ texte (caractéristique de la / des composition(s) aromatique(s) / parfumante(s) utilisé(es) //// caractéristiques de la / des matière(s) première(s) utilisée(s) //// sans odeur)
+pH à 20°C : champ texte
+Densité à 20°C : champ texte
+Indice de réfraction à 20°C  : champ texte
+Point éclair : champ texte
+Point de fusion (melting point) : champ texte
+T° d’auto-inflammation (auto ignition) : champ texte
+T° d’ébulltion (boiling point) : champ texte
+Acidité (% d’acide oléique) : champ texte
+Indice de peroxyde : champ texte
+Solubilité dans/miscibilité à 20°C : champ texte
+Viscosité : champ texte
+Activité de l'eau : champ texte ( > 0,75 (théorique) /// < 0,75 (théorique) )
+Conditionnement et présentation : champ texte
+Capacité : champ texte
+Stockage : champ ascenseur (Conserver dans un endroit frais et sec, à l'abri de la lumière et de la chaleur / Conserver sur un porte savon après utilisation )
+Date de mise sur le marché du premier lot : champ date
+Présentation : champ ascenseur (Photo avec et sans l’emballage en annexe du DIP / Photo en annexe du DIP)
+Restrictions cosmétiques / opinions SCCS : champ texte
+DDM : champ ascenseur (La durabilité du produit cosmétique excède 30 mois, l'indication de la date de durabilité n'est pas obligatoire. /// La durabilité du produit cosmétique n’excède pas 30 mois, l'indication de la date de durabilité est obligatoire)
+Formulation 1 : champ ascenseur (Compte tenu notamment de l'efficacité du système conservateur, la formule présente une stabilité élevée face à la contamination microbienne. /// Compte tenu notamment de l'efficacité du système conservateur et du conditionnement, la formule présente une stabilité élevée face à la contamination microbienne. /// Compte tenu notamment de la concentration en alcool dans le produit fini, la formulation présente une stabilité élevée face à la contamination microbienne. /// Compte tenu notamment de la faible quantité d'eau et de l'activité de l'eau Aw (théorique) du produit fini, la formulation présente une stabilité élevée face à la contamination microbienne. /// Compte tenu notamment de la présence d'alcool, de l'absence d'eau et de l'activité de l'eau Aw (théorique) du produit fini, la formulation présente une stabilité élevée face à la contamination microbienne. /// Compte tenu notamment de l'absence d'eau et de l'activité de l'eau Aw (théorique) du produit fini, la formulation présente une stabilité élevée face à la contamination microbienne. )
+Cotation 1 : champ ascenseur (1 /// 2 /// 3 /// 4)
+Interface produit/environnement 2 : champ ascenseur (Compte tenu du conditionnement, mais aussi de l’utilisation fréquente possible du produit, ce paramètre présente un risque élevé. /// Compte tenu du conditionnement et de l’utilisation possible du produit, ce paramètre présente un risque faible /// Compte tenu du conditionnement et de l’utilisation possible du produit, ce paramètre présente un risque très faible )
+Cotation 2 : champ ascenseur (1 /// 2 /// 3 /// 4)
+Durée d’utilisation 3 : champ ascenseur (D'après la fréquence d'utilisation et le conditionnement, la durée d’utilisation du produit est relativement courte, aussi le risque lié à ce paramètre est-il faible. /// D'après la fréquence d'utilisation et le conditionnement, la durée d’utilisation du produit est relativement longue, aussi le risque lié à ce paramètre est-il élevé.)
+Cotation 3 : champ ascenseur (1 /// 2 /// 3 /// 4)
+Zone d’application 4 : champ ascenseur (Compte tenu de la zone d'application du produit, celui-ci peut entrer en contact avec les yeux. Le risque lié à ce paramètre est très élevé. /// Compte tenu de la zone d'application du produit, celui-ci peut entrer en contact avec les muqueuses. Le risque lié à ce paramètre est élevé. /// Compte tenu de la zone d'application du produit, celui-ci peut entrer en contact avec les plis. Le risque lié à ce paramètre est faible. /// Compte tenu de la zone d'application du produit, celui-ci peut entrer en contact avec les cheveux. Le risque lié à ce paramètre est très faible.)
+Cotation 4 : champ ascenseur (1 /// 2 /// 3 /// 4)
+Public : champ ascenseur ( Le produit est principalement destiné à l’usage des nourissons. Le risque lié à ce paramètre est très élevé. /// Le produit est principalement destiné à l’usage des enfants entre 3 et 12 anss. Le risque lié à ce paramètre est élevé. /// Le produit est principalement destiné à l’usage des adultes et des personnes âgées. Le risque lié à ce paramètre est faible. /// Le produit est principalement destiné à l’usage des adultes. Le risque lié à ce paramètre est très faible. )
+Cotation 5 : champ ascenseur (1 /// 2 /// 3 /// 4)
+Risque théorique : calcul automatique en multipliant les 4 valeurs des 4 cotations AW3*AY3*BA3*BC3*BE3
+RT : champ ascenseur  (si 1 ≤ RT ≤ 8, PAO ≤ 18 mois ///
+si 8 < RT ≤ 28, PAO ≤ 12 mois ///
+si 28 < RT ≤ 48, PAO ≤ 6 mois ///
+si 48 < RT, PAO non applicable )
+PAO : champ ascenseur  (18 M /// 12 M /// 6 M /// PAO non applicable)
+PAO retenue : champ ascenseur  (18 M /// 12 M /// 6 M /// PAO non applicable)
+Analyses : 2 choix sont possibles mais je pense qu'il faut ajouter la possibilité d'écrire manuellement une autre condition : (Les conditions des essais de vieillissement accéléré - stabilité de la formule seule sont les suivantes : observations et analyses à 1 semaine, 2 semaines, 1 mois, 2 mois et 3 mois de stockage (à température ambiante à la lumière et à l’obscurité ; à 45°C ; à 6°C) /// Les conditions des essais de vieillissement accéléré - stabilité de la formule seule sont les suivantes : observations et analyses à 1 semaine, 2 semaines, 1 mois, 2 mois et 3 mois de stockage (à température ambiante et à la lumière.)
+Conclusion : 3 choix possibles : (Les résultats des essais de vieillissement accéléré - stabilité de la formule seule sont disponibles à 1, 2 et 3 mois au moment de la rédaction du DIP et sont conformes dans les différentes conditions. Les résultats sont acceptables. Ces résultats sont disponibles en annexe du DIP. /// Les résultats des essais de vieillissement accéléré - stabilité de la formule seule sont disponibles à 1, 2 et 3 mois au moment de la rédaction du DIP et ne sont pas conformes dans les différentes conditions. Les résultats ne sont pas acceptables. Ces résultats sont disponibles en annexe du DIP. /// Les résultats des essais de vieillissement accéléré - stabilité de la formule seule ne sont pas disponibles en totalité au moment de la rédaction du DIP et devront être confirmés )
+Risque microbiologique (commentaire) : ce champ reprend les informations de la case AV2
+Risque microbiologique : 2 choix possibles : (Risque microbiologique maîtrisé /// Risque microbiologique non maîtrisé)
+Argumentation : champ avec 1 case à cocher pour chaque choix possible suivant : • Formule hostile au développement de micro-organismes. /// • Analyse du risque microbiologique - Profil A (ISO 11930 :2012 – Evaluation de la protection antimicrobienne d'un produit cosmétique. /// Analyse du risque microbiologique - Profil B (ISO 11930 :2012 – Evaluation de la protection antimicrobienne d'un produit cosmétique /// Autre (avez zone de texte)
+Informations concernant le conditionnement : ce champ reprend les informations de la case AO2
+Commentaire : Ici, c'est tjrs le même texte qui apparait.... (Il n'est fait aucune mention de la présence de substances à l'état de traces ou d'impuretés non conformes à la législation alimentaire en vigueur dans les matières premières dans les documents donnés par les fournisseurs.
+
+Aucune étape du processus de fabrication du produit cosmétique ne comporte de risque quant à l'incorporation de substances contaminantes (traces ou impuretés) dans le produit dès lors que la procédure et les bonnes pratiques de fabrication sont respectées.
+
+Ces informations découlent de l'étude des différentes fiches techniques et attestations concernant les matières premières et les articles de conditionnement. Elles seront détaillées et expertisées sur le plan toxicologique dans la partie B du rapport.)
+Type de public visé  : ce champ reprend les informations de la case W2
+Présentation cosmétique  : ce champ reprend les informations de la case AO3 et ajoute". Etiquette extérieure"
+Fonction : zone de texte
+Mode d’emploi : zone de texte
+Précautions d’emploi et restrictions d’usage : zone de texte
+Site d’application-1 : BD TYPE DE PRODUIT
+Mode d’application-1 : BD TYPE DE PRODUIT
+Quantité appliquée-1 : BD TYPE DE PRODUIT
+Facteur de rétention-1 : BD TYPE DE PRODUIT
+Durée d’application-1 : BD TYPE DE PRODUIT
+Durée d’utilisation-1 : BD TYPE DE PRODUIT
+Temps d’exposition-1 : BD TYPE DE PRODUIT
+Fréquence d’utilisation-1 : BD TYPE DE PRODUIT
+Surface d’application-1 : BD TYPE DE PRODUIT
+VENH-1 : BD TYPE DE PRODUIT
+Voie principale d’exposition-1 : BD TYPE DE PRODUIT
+Voies secondaires d’exposition-1 : BD TYPE DE PRODUIT
+Populations visées-1 : BD TYPE DE PRODUIT
+Présence de nanomatériaux-1 : BD TYPE DE PRODUIT
+A : Exposition-1 : BD TYPE DE PRODUIT
+Site d’application-2 : BD TYPE DE PRODUIT
+Mode d’application-2 : BD TYPE DE PRODUIT
+Quantité appliquée-2 : BD TYPE DE PRODUIT
+Facteur de rétention-2 : BD TYPE DE PRODUIT
+Durée d’application-2 : BD TYPE DE PRODUIT
+Durée d’utilisation-2 : BD TYPE DE PRODUIT
+Temps d’exposition-2 : BD TYPE DE PRODUIT
+Fréquence d’utilisation-2 : BD TYPE DE PRODUIT
+Surface d’application-2 : BD TYPE DE PRODUIT
+VENH-2 : BD TYPE DE PRODUIT
+Voie principale d’exposition-2 : BD TYPE DE PRODUIT
+Voies secondaires d’exposition-2 : BD TYPE DE PRODUIT
+Populations visées-2 : BD TYPE DE PRODUIT
+Présence de nanomatériaux-2 : BD TYPE DE PRODUIT
+A : Exposition-2 : BD TYPE DE PRODUIT
+Site d’application-3 : BD TYPE DE PRODUIT
+Mode d’application-3 : BD TYPE DE PRODUIT
+Quantité appliquée-3 : BD TYPE DE PRODUIT
+Facteur de rétention-3 : BD TYPE DE PRODUIT
+Durée d’application-3 : BD TYPE DE PRODUIT
+Durée d’utilisation-3 : BD TYPE DE PRODUIT
+Temps d’exposition-3 : BD TYPE DE PRODUIT
+Fréquence d’utilisation-3 : BD TYPE DE PRODUIT
+Surface d’application-3 : BD TYPE DE PRODUIT
+VENH-3 : BD TYPE DE PRODUIT
+Voie principale d’exposition-3 : BD TYPE DE PRODUIT
+Voies secondaires d’exposition-3 : BD TYPE DE PRODUIT
+Populations visées-3 : BD TYPE DE PRODUIT
+Présence de nanomatériaux-3 : BD TYPE DE PRODUIT
+A Exposition-3 : BD TYPE DE PRODUIT
+HYDROXYDE DE SODIUM+BK:BBO:BP : Ce champ reste vide ou l'utilisateur peut sélectionner le texte suivant : (La valeur MoS pour HYDROXYDE DE SODIUM n’est pas pertinente car cet ingrédient est consommé pendant le processus de fabrication du savon et ne figure pas dans le produit fini.)
+X. INFORMATIONS SUR LE PRODUIT COSMETIQUE : zone de texte
+Nom / raison sociale / adresse de la personne responsable :  : 2 choix : soit "OK", soit "cf « Annotations conseillées sur l'étiquette »"
+ Pays d’origine (pour les produits cosmétiques importés) : : 2 choix : soit zone de texte soit "non pertinent"
+CONTENU : 2 choix : soit "OK", soit "cf « Annotations conseillées sur l'étiquette »"
+Symbole / Date de durabilité minimale :  : 2 choix : soit "OK", soit "cf « Annotations conseillées sur l'étiquette »"
+Précautions particulières d’emploi : : 2 choix : soit "OK", soit "cf « Annotations conseillées sur l'étiquette »"
+• Numéro de lot de fabrication / référence du produit :  : 2 choix : soit "OK", soit "cf « Annotations conseillées sur l'étiquette »"
+• Fonction du produit (sauf si cela ressort clairement de sa présentation) :  : 2 choix : soit "OK", soit "cf « Annotations conseillées sur l'étiquette »"
+• Liste des ingrédients :  : 2 choix : soit "OK", soit "cf « Annotations conseillées sur l'étiquette »"
+• Langue : zone de texte
+Liste 1 (INCI version non saponifiée) ou version INCI non savon : zone de texte
+Liste 2 (INCI version saponifiée) : : zone de texte
+BIO * : 2 choix : soit case vide soit "*Issu de l'agriculture biologique"
+ALLERGENES ** : **Présent dans le(s) parfum(s) /// **Présent dans le(s) parfum et l'huile(s) essentielle(s) //// **Présents dans le(s) huiles essentielle(s) /// zone de texte
+• Nom / raison sociale / adresse de la personne responsable :  : ce champ reprend les information des cases P2&" - "&Q2
+• Pays d’origine (pour les produits cosmétiques importés) : : ce champ reprend les information de la case DR2
+• Contenu nominal indiqué en poids ou en volume : : ce champ reprend les information de la case AP2
+• Symbole / Date de durabilité minimale :  : ce champ reprend les information de la case BI2
+• Précautions particulières d’emploi : : ce champ reprend les information de la case BU2
+• Numéro de lot de fabrication / référence du produit :  : RESTE VIDE
+• Fonction du produit (sauf si cela ressort clairement de sa présentation) :  : RESTE VIDE
+• Liste des ingrédients :  : RESTE VIDE
+• Langue : ce champ reprend les information de la case DY2
+Recommandations : ZONE DE TEXTE
+CCL MICROBIO : ZONE DE TEXTE
+Fabricant / distributeur (conditionnement) : ZONE DE TEXTE
+Description (conditionnement) : ZONE DE TEXTE
+Restrictions cosmétiques / opinions SCCS (détails) : ZONE DE TEXTE
+Impuretés : Absence /// Présence
+Allergenes : Absence /// Présence
+> 0,01% (produit à rincer) ou > 0,001% (produit sans rinçage) : > 0,001% (produit sans rinçage) /// > 0,01% (produit à rincer) /// > 0,01% (produit à rincer) ou > 0,001% (produit sans rinçage)
+Information MoS : soit vide, soit texte "L'OMS propose une valeur minimale MoS = 100. Il est généralement admis que la MoS doit au moins être > 100 afin de conclure qu'une substance est sans danger pour la santé humaine dans le cadre de son utilisation."
+Conclusion : 2 choix possibles : soit : "présente un risque particulier pour la santé humaine et ne répond pas aux exigences de l’article 3 du règlement (CE) N°1223/2009. /// ne présente pas de risque particulier pour la santé humaine et répond aux exigences de l’article 3 du règlement (CE) N°1223/2009. Si le produit s'avère, suite à son utilisation par les consommateurs, à l'origine de réactions indésirables significatives déclarées auprès des services de cosmétovigilance, notamment de réactions d'irritations locales ou allergiques, le soussigné devra en être informé afin d'envisager l'éventuelle réévaluation de la sécurité pour la santé humaine du produit fini.
+Date de rédaction du rapport final: ZONE DE TEXTE
+Profil toxicologique des substances : None
+Profil toxicologique des allergènes : None
